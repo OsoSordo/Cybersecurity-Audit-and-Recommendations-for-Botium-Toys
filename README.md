@@ -23,8 +23,8 @@ This project demonstrates my ability to perform a comprehensive security audit a
 
 This repository contains the full project documentation:
 
-* [**Botium Toys Audit Report**](https://github.com/OsoSordo/Cybersecurity-Audit-and-Recommendations-for-Botium-Toys/blob/main/Botium_Toys_Audit_Report.md): The main recommendations report addressed to the IT Manager.  
+* [**Botium Toys Audit Report**](Botium_Toys_Audit_Report.md): The main recommendations report addressed to the IT Manager.  
 * **Supporting Documents**: The original source materials used for the analysis are located in the `Supporting_Documents` folder.  
-  * `Botium_Toys_Scope_Goals_Risk_Assessment.pdf`  
-  * `Controls_and_Compliance_Checklist.pdf`  
-  * `Control_Categories.pdf`
+  * [Botium Toys Scope Goals Risk Assessment](Supporting_Documents/Botium_Toys_Scope_Goals_Risk_Assessment.pdf)
+  * [Controls and Compliance Checklist](Supporting_Documents/Controls_and_Compliance_Checklist.pdf)
+  * [Control Categories](Supporting_Documents/Control_Categories.pdf)
